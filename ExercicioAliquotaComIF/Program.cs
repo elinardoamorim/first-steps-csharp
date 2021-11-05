@@ -27,7 +27,7 @@ namespace ExercicioAliquotaComIF
                 Console.WriteLine("O IR é de 22.5% e pode deduzir R$ 636.");
             }
 
-            Console.WriteLine("Para finalizar a execução, tecle enter para sair...");
+            Console.WriteLine("Para finalizar a execução, tecle enter para sair....");
             Console.ReadLine();
         }
     }
