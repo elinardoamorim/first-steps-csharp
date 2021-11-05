@@ -1,0 +1,8 @@
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\ExercicioAliquotaComIF\bin\Debug\ExercicioAliquotaComIF.exe.config
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\ExercicioAliquotaComIF\bin\Debug\ExercicioAliquotaComIF.exe
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\ExercicioAliquotaComIF\bin\Debug\ExercicioAliquotaComIF.pdb
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\ExercicioAliquotaComIF\obj\Debug\ExercicioAliquotaComIF.csproj.AssemblyReference.cache
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\ExercicioAliquotaComIF\obj\Debug\ExercicioAliquotaComIF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\ExercicioAliquotaComIF\obj\Debug\ExercicioAliquotaComIF.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\ExercicioAliquotaComIF\obj\Debug\ExercicioAliquotaComIF.exe
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\ExercicioAliquotaComIF\obj\Debug\ExercicioAliquotaComIF.pdb

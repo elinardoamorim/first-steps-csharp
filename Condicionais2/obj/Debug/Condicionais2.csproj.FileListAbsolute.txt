@@ -1,0 +1,7 @@
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Condicionais2\bin\Debug\Condicionais2.exe.config
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Condicionais2\bin\Debug\Condicionais2.exe
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Condicionais2\bin\Debug\Condicionais2.pdb
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Condicionais2\obj\Debug\Condicionais2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Condicionais2\obj\Debug\Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Condicionais2\obj\Debug\Condicionais2.exe
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Condicionais2\obj\Debug\Condicionais2.pdb

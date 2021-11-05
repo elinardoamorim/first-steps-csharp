@@ -1,0 +1,7 @@
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Escopo\bin\Debug\Escopo.exe.config
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Escopo\bin\Debug\Escopo.exe
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Escopo\bin\Debug\Escopo.pdb
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Escopo\obj\Debug\Escopo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Escopo\obj\Debug\Escopo.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Escopo\obj\Debug\Escopo.exe
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\Escopo\obj\Debug\Escopo.pdb

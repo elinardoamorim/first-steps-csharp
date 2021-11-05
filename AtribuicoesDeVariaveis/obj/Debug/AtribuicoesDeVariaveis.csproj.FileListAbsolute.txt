@@ -1,0 +1,7 @@
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.exe.config
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.exe
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.pdb
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.exe
+C:\Users\Theo\Documents\EstagioLead\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.pdb
